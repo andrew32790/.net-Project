@@ -1,4 +1,4 @@
 # C#
 
 
-.net network software for shut down (windows)
+.net framework software for shut down (windows)
